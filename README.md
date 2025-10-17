@@ -34,11 +34,17 @@ The solution follows four main layers:
 ## 📂 **Project Structure**
 
 SSIS-Data-Warehouse-ETL-Pipeline/
+
 │
+
 ├── DataSources/ # Input data files
+
 ├── SSISPackages/ # SSIS project and .dtsx files
+
 ├── SQLScripts/ # SQL scripts for tables and schema
+
 ├── Reporting/ # Power Bi reports
+
 └── README.md # Project documentation
 
 ---
